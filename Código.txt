@@ -1,3 +1,6 @@
+//Link da aplicação no tinkercad
+//https://www.tinkercad.com/things/dkD28a6nmTX-globaliot?sharecode=mdjbnO9spIC1eNVgCc879Q7ZZVSb74D_Y2v80juC8po
+
 // Biblioteca LCD
 #include <LiquidCrystal.h>
 
